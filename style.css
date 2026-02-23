@@ -1,0 +1,25 @@
+nav {
+    padding: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.nav-link {
+    color: rgba(20, 26, 31, 1);
+}
+
+.line {
+    background-color: #d1d9e1;
+    height: 1px;
+}
+
+.btn {
+    border-radius: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.btn-outline-secondary {
+    border: 1px solid #d1d9e1;
+    color: rgba(20, 26, 31, 1);
+}
