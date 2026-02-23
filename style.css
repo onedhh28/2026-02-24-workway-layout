@@ -22,6 +22,10 @@ nav {
     color: rgba(20, 26, 31, 1);
 }
 
+.nav-link:hover {
+    color: rgba(74, 105, 232, 1);
+}
+
 .line {
     background-color: #d1d9e1;
     height: 1px;
