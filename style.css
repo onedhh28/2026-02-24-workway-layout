@@ -6,6 +6,11 @@
 }
     */
 
+.h1 .h2 .h3 .h4 .h5 .h6,h1,h2,h3,h4,h5,h6 {
+    margin-block-end: 0px;
+    margin-bottom: 0px;
+}
+
 nav {
     padding: 8px;
     padding-top: 16px;
@@ -42,7 +47,7 @@ nav {
     padding-right: 24px;
 }
 
-.btn-outline-secondary {
+.btn-outline-white {
     border: 1px solid #d1d9e1;
     color: rgba(20, 26, 31, 1);
 }
@@ -52,4 +57,22 @@ span {
     display: block;
     font-size: 14px;
     align-self: center;
+}
+
+.banner {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background-color: antiquewhite;
+}
+
+.banner h1 {
+    font-size: 80px;
+}
+
+.banner-cta {
+    width: 815px;
+}
+
+.banner-cta .h4{
+    margin: 0px;
 }
