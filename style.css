@@ -15,6 +15,10 @@ body {
     margin-bottom: 0px;
 }
 
+p {
+    color: rgba(102, 127, 153, 1);
+}
+
 span {
     color: rgba(102, 127, 153, 1);}
 
@@ -191,4 +195,9 @@ nav {
     border: 1.5px solid  #4a69e8;
     border-radius: 12px;
     margin-bottom: 16px;
+}
+
+.partner {
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
