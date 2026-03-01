@@ -154,13 +154,20 @@ nav {
     padding-bottom: 80px;
     background-color: #f0f3f5;
     z-index: 1;
+    gap: 48px;
 }
 
-.reason img {
+.reason-vector {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.reason-image-group img {
     border-radius: 12px;
 }
 
-.reason .tag {
+.reason-image-group .tag {
     bottom: 0px;
     left: 0px;
     background-color: #f0f3f5;
@@ -170,6 +177,18 @@ nav {
     border-top-right-radius: 12px;
 }
 
-.reason .tag img {
+.reason-image-group .tag img {
     margin-right: 4px;
+}
+
+.bubble {
+    display: block;
+    padding: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    color: #4a69e8;
+    background: white;
+    border: 1.5px solid  #4a69e8;
+    border-radius: 12px;
+    margin-bottom: 16px;
 }
