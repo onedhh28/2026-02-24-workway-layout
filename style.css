@@ -88,15 +88,16 @@ nav {
     gap: 28px;
 }
 
+.banner-cta .button {
+    background-color: #36c99f;
+    border: none;
+}
+
 .banner-cta .h4{
+    color: #141a1f;
     margin: 0px;
 }
 
-.banner-cta button {
-    background-color: #36c99f;
-    color: #141a1f;
-    border: none;
-}
 
 .image-cap {
     width: 100%;
