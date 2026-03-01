@@ -15,6 +15,10 @@ body {
     margin-bottom: 0px;
 }
 
+h1 {
+    font-weight: 800;
+}
+
 p {
     color: rgba(102, 127, 153, 1);
 }
@@ -202,10 +206,30 @@ nav {
     margin-bottom: 80px;
 }
 
+
+
 .partner h5 {
     color: #4a69e8;
 }
 
 .quote {   
     background-color: aquamarine;
+}
+
+.button {
+    background-color: #141a1f;
+    color: white;
+    width: fit-content;
+    padding: 8px 16px;
+    border-radius: 16px;
+}
+
+.button p {
+    margin: 0px;
+    text-decoration: none;
+    color: white;
+}
+
+a {
+  text-decoration: none;
 }
