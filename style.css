@@ -97,15 +97,30 @@ nav {
 }
 
 .story {
-    width: 302px;
+    width: 402px;
     gap: 24px;
 }
 
 .story span {
-    font-size: 14px;
+    font-size: 16px;
     text-align: left;
 }
 
 .story-content {
     margin-left: 312px;
+}
+
+.card {
+    border-radius: 24px;
+}
+
+.card-text {
+    font-size: 14px;
+    color: #667f99;
+}
+
+.card span {
+    font-size: 12px;
+    color: rgba(20, 26, 31, 1);
+
 }
