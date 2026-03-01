@@ -115,8 +115,15 @@ nav {
 }
 
 .card {
-    border-radius: 24px;
+    border-radius: 25px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
     margin: 12px;
+}
+
+.card-img-top {
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
 }
 
 .card-text {
@@ -127,5 +134,4 @@ nav {
 .card span {
     font-size: 12px;
     color: rgba(20, 26, 31, 1);
-
 }
