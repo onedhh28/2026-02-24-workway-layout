@@ -257,3 +257,20 @@ a {
     padding-top: 64px;
     padding-bottom: 48px;
 }
+
+.qna {
+    background-color: aquamarine;
+    padding: 312px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.qna-card {
+    color: #667f99;
+    background-color: white;
+    padding: 16px;
+}
+
+.qna h6 {
+    font-weight: 700;
+}
