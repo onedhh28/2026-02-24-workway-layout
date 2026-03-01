@@ -49,7 +49,7 @@ nav {
 
 .btn-outline-white {
     border: 1px solid #d1d9e1;
-    color: rgba(20, 26, 31, 1);
+    color: rgb(20, 26, 31);
 }
 
 span {
@@ -62,7 +62,7 @@ span {
 .banner {
     margin-top: 80px;
     margin-bottom: 80px;
-    background-color: antiquewhite;
+    gap: 28px;
 }
 
 .banner h1 {
@@ -71,8 +71,25 @@ span {
 
 .banner-cta {
     width: 815px;
+    gap: 28px;
 }
 
 .banner-cta .h4{
     margin: 0px;
+}
+
+.banner-cta button {
+    background-color: #36c99f;
+    color: #141a1f;
+    border: none;
+}
+
+.image-cap {
+    width: 100%;
+    height: 400px;
+    gap: 12px;
+}
+
+.image-cap .img {
+    background-color: rgb(185, 185, 185);
 }
