@@ -73,9 +73,12 @@ nav {
 }
 
 .banner {
-    margin-top: 80px;
+    padding-top: 80px;
     margin-bottom: 80px;
     gap: 28px;
+    background-image: url('/assets/banner-bg.svg');
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .banner h1 {
