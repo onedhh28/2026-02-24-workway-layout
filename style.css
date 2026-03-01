@@ -251,3 +251,9 @@ a {
     border-bottom-left-radius: 0px ;
     border-radius: 24px 0px 12px 0px;
 }
+
+.flow .card-body {
+    padding: 24px;
+    padding-top: 64px;
+    padding-bottom: 48px;
+}
