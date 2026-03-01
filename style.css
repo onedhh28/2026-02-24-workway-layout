@@ -265,10 +265,16 @@ a {
     padding-bottom: 80px;
 }
 
+.qna img {
+    padding-top: 130px;
+    padding-right: 130px;
+}
+
 .qna-card {
     color: #667f99;
     background-color: white;
     padding: 16px;
+    border-radius: 8px;
 }
 
 .qna h6 {
