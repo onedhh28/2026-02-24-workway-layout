@@ -283,3 +283,24 @@ a {
 .qna h6 {
     font-weight: 700;
 }
+
+.cta {
+    border-radius: 24px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.cta p, h4 {
+    margin: 0px;
+    color: #ffffff;
+}
+
+.cta svg {
+    margin-right: 8px;
+}
+
+.line-dashed {
+    height: 0; /* 虛線本身不需要高度 */
+    border-top: 1px dashed #d1d9e1; /* dashed 是長虛線 */
+    flex-grow: 1; /* 記得保留這個，才能在 row 中填滿空間 */
+}
