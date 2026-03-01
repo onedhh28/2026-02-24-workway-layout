@@ -259,11 +259,13 @@ a {
 }
 
 .qna {
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     padding: 312px;
     padding-top: 80px;
     padding-bottom: 80px;
-    
+    background-image: url('/assets/qna-bg.png');
+    background-repeat: repeat; /* 這是預設值，代表水平與垂直都重複 */
+    background-size: 300px;    /* 視需求調整重複圖像的大小 */
 }
 
 .qna img {
