@@ -35,7 +35,7 @@ nav {
 }
 
 .nav-link:hover {
-    color: rgba(74, 105, 232, 1);
+    color: #4a69e8;
 }
 
 .line {
@@ -134,4 +134,16 @@ nav {
 .card span {
     font-size: 12px;
     color: rgba(20, 26, 31, 1);
+}
+
+.card .tag {
+    font-size: 16px;
+    top: 12px;
+    left: 12px;
+    padding: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    background-color: #4a69e8;
+    color: white;
 }
