@@ -11,6 +11,9 @@
     margin-bottom: 0px;
 }
 
+span {
+    color: rgba(102, 127, 153, 1);}
+
 nav {
     padding: 8px;
     padding-top: 16px;
@@ -52,7 +55,7 @@ nav {
     color: rgb(20, 26, 31);
 }
 
-span {
+.banner span {
     color: rgba(102, 127, 153, 1);
     display: block;
     font-size: 14px;
@@ -92,4 +95,14 @@ span {
 
 .image-cap .img {
     background-color: rgb(185, 185, 185);
+}
+
+.story {
+    width: 402px;
+    gap: 24px;
+}
+
+.story span {
+    font-size: 16px;
+    text-align: left;
 }
