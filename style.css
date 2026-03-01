@@ -57,7 +57,6 @@ nav {
 
 .banner span {
     color: rgba(102, 127, 153, 1);
-    display: block;
     font-size: 14px;
     align-self: center;
 }
@@ -98,11 +97,15 @@ nav {
 }
 
 .story {
-    width: 402px;
+    width: 302px;
     gap: 24px;
 }
 
 .story span {
-    font-size: 16px;
+    font-size: 14px;
     text-align: left;
+}
+
+.story-content {
+    margin-left: 312px;
 }
