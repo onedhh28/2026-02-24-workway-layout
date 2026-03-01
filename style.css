@@ -169,3 +169,7 @@ nav {
     padding-bottom: 8px;
     border-top-right-radius: 12px;
 }
+
+.reason .tag img {
+    margin-right: 4px;
+}
