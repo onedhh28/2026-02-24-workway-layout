@@ -308,7 +308,7 @@ a {
     margin-bottom: 80px;
 }
 
-.cta p, .cta .h4 {
+.cta p, .cta h4 {
     margin: 0px;
     color: #ffffff;
 }
@@ -432,4 +432,13 @@ a {
 .block-content {
     color: #141a1f;
     font-weight: 500;
+}
+
+.about-cta {
+    background-color: #ffffff;
+}
+
+.about-cta .cta {
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
