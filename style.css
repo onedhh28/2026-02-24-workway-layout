@@ -381,3 +381,17 @@ a {
     width: 100%;
     z-index: -1;
 }
+
+.about-mentor {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.about-mentor-pilltag {
+    border: 1px solid rgba(209, 217, 225, 1);
+}
+
+.about-mentor span {
+    font-weight: 400;
+    color: #667f99;
+}
