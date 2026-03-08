@@ -391,7 +391,21 @@ a {
     border: 1px solid rgba(209, 217, 225, 1);
 }
 
-.about-mentor span {
+.about-mentor-list span {
     font-weight: 400;
     color: #667f99;
+}
+
+.about-mentor-slogan {
+    padding: 48px;
+    padding: 24px;
+    margin: 48px;
+    margin-top: 24px;
+    border-radius: 12px;
+    background-color: #4a69e8;
+}
+
+.about-mentor-slogan-content {
+    width: 800px;
+    color: white;
 }
